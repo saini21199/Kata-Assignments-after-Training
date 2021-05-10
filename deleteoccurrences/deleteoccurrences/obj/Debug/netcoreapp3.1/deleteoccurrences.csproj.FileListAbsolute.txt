@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\deleteoccurrences\deleteoccurrences\bin\Debug\netcoreapp3.1\deleteoccurrences.exe
+C:\Users\lenovo\source\repos\deleteoccurrences\deleteoccurrences\bin\Debug\netcoreapp3.1\deleteoccurrences.deps.json
+C:\Users\lenovo\source\repos\deleteoccurrences\deleteoccurrences\bin\Debug\netcoreapp3.1\deleteoccurrences.runtimeconfig.json
+C:\Users\lenovo\source\repos\deleteoccurrences\deleteoccurrences\bin\Debug\netcoreapp3.1\deleteoccurrences.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\deleteoccurrences\deleteoccurrences\bin\Debug\netcoreapp3.1\deleteoccurrences.dll
+C:\Users\lenovo\source\repos\deleteoccurrences\deleteoccurrences\bin\Debug\netcoreapp3.1\deleteoccurrences.pdb
+C:\Users\lenovo\source\repos\deleteoccurrences\deleteoccurrences\obj\Debug\netcoreapp3.1\deleteoccurrences.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\deleteoccurrences\deleteoccurrences\obj\Debug\netcoreapp3.1\deleteoccurrences.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\deleteoccurrences\deleteoccurrences\obj\Debug\netcoreapp3.1\deleteoccurrences.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\deleteoccurrences\deleteoccurrences\obj\Debug\netcoreapp3.1\deleteoccurrences.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\deleteoccurrences\deleteoccurrences\obj\Debug\netcoreapp3.1\deleteoccurrences.dll
+C:\Users\lenovo\source\repos\deleteoccurrences\deleteoccurrences\obj\Debug\netcoreapp3.1\deleteoccurrences.pdb
+C:\Users\lenovo\source\repos\deleteoccurrences\deleteoccurrences\obj\Debug\netcoreapp3.1\deleteoccurrences.genruntimeconfig.cache

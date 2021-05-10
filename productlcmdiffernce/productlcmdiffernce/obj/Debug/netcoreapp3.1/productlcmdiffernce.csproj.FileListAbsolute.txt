@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\productlcmdiffernce\productlcmdiffernce\bin\Debug\netcoreapp3.1\productlcmdiffernce.exe
+C:\Users\lenovo\source\repos\productlcmdiffernce\productlcmdiffernce\bin\Debug\netcoreapp3.1\productlcmdiffernce.deps.json
+C:\Users\lenovo\source\repos\productlcmdiffernce\productlcmdiffernce\bin\Debug\netcoreapp3.1\productlcmdiffernce.runtimeconfig.json
+C:\Users\lenovo\source\repos\productlcmdiffernce\productlcmdiffernce\bin\Debug\netcoreapp3.1\productlcmdiffernce.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\productlcmdiffernce\productlcmdiffernce\bin\Debug\netcoreapp3.1\productlcmdiffernce.dll
+C:\Users\lenovo\source\repos\productlcmdiffernce\productlcmdiffernce\bin\Debug\netcoreapp3.1\productlcmdiffernce.pdb
+C:\Users\lenovo\source\repos\productlcmdiffernce\productlcmdiffernce\obj\Debug\netcoreapp3.1\productlcmdiffernce.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\productlcmdiffernce\productlcmdiffernce\obj\Debug\netcoreapp3.1\productlcmdiffernce.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\productlcmdiffernce\productlcmdiffernce\obj\Debug\netcoreapp3.1\productlcmdiffernce.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\productlcmdiffernce\productlcmdiffernce\obj\Debug\netcoreapp3.1\productlcmdiffernce.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\productlcmdiffernce\productlcmdiffernce\obj\Debug\netcoreapp3.1\productlcmdiffernce.dll
+C:\Users\lenovo\source\repos\productlcmdiffernce\productlcmdiffernce\obj\Debug\netcoreapp3.1\productlcmdiffernce.pdb
+C:\Users\lenovo\source\repos\productlcmdiffernce\productlcmdiffernce\obj\Debug\netcoreapp3.1\productlcmdiffernce.genruntimeconfig.cache
